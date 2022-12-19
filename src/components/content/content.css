@@ -1,0 +1,34 @@
+.content {
+    display: flex;
+    margin: 1em 0;
+}
+.content[data-variant="image-first"] {
+    flex-direction: row-reverse;
+}
+.content[data-theme="dark"] {
+    background-color: black;
+    color: white;
+}
+.content > div:only-child {
+    text-align: center;
+}
+
+.content__box {
+   
+}
+
+.content__title {
+    font-weight: 700;
+    font-size: 3em;
+    text-transform: uppercase;
+}
+
+.content__text {
+    font-size: 1em;
+    width: 80%;
+}
+
+.content__image {
+   width: 100%;
+   height: 100%;
+}

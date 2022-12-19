@@ -1,0 +1,40 @@
+.challenge {
+
+}
+
+.challenge__head {
+    text-align: center;
+}
+
+.challenge__text {
+    color: orangered;
+    text-align: center;
+}
+
+.challenge__list {
+
+}
+
+.challenge__article {
+margin-bottom: 10px;
+}
+
+.challenge__link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid transparent;
+    background-color: yellowgreen;
+}
+
+.challenge__link:hover {
+    background-image: linear-gradient(to bottom right, yellowgreen, yellow);
+}
+
+.challenge__title {
+    padding-left: 10px;
+}
+
+.challenge__description {
+    padding-right: 10px;
+}

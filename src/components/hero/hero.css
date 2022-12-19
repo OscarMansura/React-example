@@ -1,0 +1,28 @@
+.hero {
+    margin-top: 100px;
+    color: #f2f2f2;
+}
+
+.hero__image {
+    position: relative;
+}
+
+.hero__title {
+    position: absolute;
+    font-weight: 700;
+    font-size: 2.5em;
+    top: 30%;
+    padding: 50px 0 0 50px;
+    width: 60%;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.hero__text {
+    position: absolute;
+    top: 50%;
+    padding-left: 50px;
+    width: 30%;
+    font-size: 1em;
+    margin: 0;
+}

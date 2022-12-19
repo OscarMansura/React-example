@@ -1,0 +1,42 @@
+.news {
+
+}
+
+.news__headline {
+
+}
+
+.news__loading {
+
+}
+
+.news__list {
+
+}
+
+.news__article {
+    margin-bottom: 1em;
+}
+
+.news__link {
+    display: block;
+    background-color: var(--color-white);
+    box-shadow: 0 0 4px rgba(0, 0, 0, .25);
+    border: 2px solid transparent;
+    padding: 1em 2em;
+    color: var(--color-text);
+    text-decoration: none;
+    transition: 250ms;
+}
+
+.news__link:hover {
+    border-color: var(--color-primary);
+}
+
+.news__title {
+    margin-bottom: 0;
+}
+
+.news__description {
+    margin-top: .5em;
+}
