@@ -1,13 +1,23 @@
-import React from "react";
-
+import React, { useState } from "react";
+import { QUESTIONS } from '../../mocks/questionsArray';
+import SingleQuestion from './question';
 import './faqs.css';
 
-function Faqs() {
-    return (
-        <div>
-            <h1>Hello Faqs</h1>
-        </div>
-    );
+const Faqs = () => {
+  const [questions] = useState(QUESTIONS);
+
+  return (
+    <main>
+      <div>
+        <h3>Questions and answers about login:</h3>
+        <section className='info'>
+          {questions.map((question) => (
+            <SingleQuestion key={question.id} {...question} />
+          ))}
+        </section>
+      </div>
+    </main>
+  );
 }
 
-export default Faqs;
+  export default Faqs;
