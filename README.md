@@ -1,3 +1,24 @@
+Hello
+
+Here is a react example, that i make when i was taking the course Front End Web Developer with Flag. 
+
+We did a navbar with routes to the be more quick changing the diferent parts of the navigation.
+
+Home is a webpage like mbway, with a fotos some text and a interactive slideshow.
+
+Some of things i did by my one, like the security "validate a password".
+
+The challenge and the news using a conetection to a API usign the use state, use effect and fetch.
+
+Faqs i did a folder with mocks to use the arrays in a response to the answer by clicking on the icon "+" and sliding a response.
+
+Pizza we did a ingredient picker, that you can choose the thingas that you want or that the items if you change you idea. Using a folder name "atoms" and the folder "mocks"
+
+Apple just to make a part of a page from Apple.
+
+Cheers
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

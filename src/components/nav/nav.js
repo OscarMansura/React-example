@@ -13,7 +13,7 @@ function Nav() {
                     <Link className='nav__link' to="/">Home</Link>
                     </li>
                     <li className='nav__list'>
-                    <Link className='nav__link' to="/seguranca-mb-way">Segurança</Link>
+                    <Link className='nav__link' to="/seguranca-mb-way">Security</Link>
                     </li>
                     <li className='nav__list'>
                     <Link className='nav__link' to="/challenge-mb-way">Challenge</Link>
