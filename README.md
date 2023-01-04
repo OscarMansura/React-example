@@ -12,7 +12,7 @@ The challenge and the news using a conetection to a API usign the use state, use
 
 Faqs i did a folder with mocks to use the arrays in a response to the answer by clicking on the icon "+" and sliding a response.
 
-Pizza we did a ingredient picker, that you can choose the thingas that you want or that the items if you change you idea. Using a folder name "atoms" and the folder "mocks"
+Pizza i did a ingredient picker, that you can choose the things that you want or take out the items if you change you idea. Using a folder name "atoms" and the folder "mocks"
 
 Apple just to make a part of a page from Apple.
 
